@@ -1,15 +1,15 @@
-=== 2026-08-23 03:01:33 ===
-Всего в базе: 7079
-Добавлено: 1
-  + Bunker 22 [NSZ][RUS/ENG]
-Обновлено: 10
-  ~ Just Shapes and Beats [NSP][RUS/Multi9]
-  ~ One Piece Pirate Warriors 4 + 25 DLC [NSZ][ENG]
+=== 2026-08-24 03:01:34 ===
+Всего в базе: 7081
+Добавлено: 2
+  + Guns of Mercy Rangers edition [NSZ][ENG]
+  + Steins Gate Re Boot (Reboot) [RePack][NSP][RUS (Mod.)/ENG]
+Обновлено: 9
+  ~ DraStic DS NX: эмулятор Nintendo NDS/DSi/Dual Screen + игра New Super Mario Bros
+  ~ Splatoon 3 + DLC Side Order, Inkopolis [NSP][RUS/Multi7]
   ~ Phigros (порт) [NRO][ENG]
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
   ~ Banjo-Kazooie (порт Lighthouse, Docklight) [NRO][ENG]
   ~ Sonic the Hedgehog 4 Episode II (эпизод 2, хоумбрю) [NRO][ENG]
   ~ Sonic Runners Adventure (хоумбрю) [NRO][RUS/Multi12]
   ~ TES 3 The Elder Scrolls III: Morrowind + Tribunal + Bloodmoon (нативный OpenMW),
-  ~ DraStic DS NX: эмулятор Nintendo NDS/DSi/Dual Screen + игра New Super Mario Bros
   ~ NetherSX2 (бывш. AetherSX2) плюс ARMSX2 NX PS2: эмуляторы Sony PlayStation 2 PCS
