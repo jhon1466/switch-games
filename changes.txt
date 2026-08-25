@@ -1,15 +1,20 @@
-=== 2026-08-24 03:01:34 ===
-Всего в базе: 7081
+=== 2026-08-25 03:00:51 ===
+Всего в базе: 7083
 Добавлено: 2
-  + Guns of Mercy Rangers edition [NSZ][ENG]
-  + Steins Gate Re Boot (Reboot) [RePack][NSP][RUS (Mod.)/ENG]
-Обновлено: 9
+  + Hillbilly Doomsday (Apocalypse) [NSP][ENG]
+  + Rabbit Raid [NSP][ENG]
+Обновлено: 14
+  ~ Atomic Owl [NSZ][ENG]
+  ~ Fur Squadron Phoenix [NSZ][ENG]
+  ~ 175 отомэ: Code Realize, Collar X Malice, Nightshade, Bustafellows 1-2, Taisho x
+  ~ Ultimate Sheep Raccoon [NSZ][RUS/Multi12]
+  ~ Ys vs. Trails in the Sky Alternative Saga [NSZ][ENG]
+  ~ Yomi 2 Fighting Card Game + DLC Renegades [NSZ][RUS/Multi6]
+  ~ Helix Descent n Ascent [NSZ][RUS/Multi10]
   ~ DraStic DS NX: эмулятор Nintendo NDS/DSi/Dual Screen + игра New Super Mario Bros
-  ~ Splatoon 3 + DLC Side Order, Inkopolis [NSP][RUS/Multi7]
   ~ Phigros (порт) [NRO][ENG]
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
   ~ Banjo-Kazooie (порт Lighthouse, Docklight) [NRO][ENG]
   ~ Sonic the Hedgehog 4 Episode II (эпизод 2, хоумбрю) [NRO][ENG]
   ~ Sonic Runners Adventure (хоумбрю) [NRO][RUS/Multi12]
   ~ TES 3 The Elder Scrolls III: Morrowind + Tribunal + Bloodmoon (нативный OpenMW),
-  ~ NetherSX2 (бывш. AetherSX2) плюс ARMSX2 NX PS2: эмуляторы Sony PlayStation 2 PCS
