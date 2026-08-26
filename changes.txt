@@ -1,19 +1,19 @@
-=== 2026-08-25 03:00:51 ===
-Всего в базе: 7083
-Добавлено: 2
-  + Hillbilly Doomsday (Apocalypse) [NSP][ENG]
-  + Rabbit Raid [NSP][ENG]
-Обновлено: 14
-  ~ Atomic Owl [NSZ][ENG]
-  ~ Fur Squadron Phoenix [NSZ][ENG]
+=== 2026-08-26 03:00:50 ===
+Всего в базе: 7087
+Добавлено: 4
+  + Darkest Dungeon: Ancestral edition + 5 DLC: The Fire's Edge, The Color of Madnes
+  + Everwarder (Ever Warder) [NSZ][ENG]
+  + Simogo Legacy Collection, 7 игр: Year Walk / Device 6 / SPL-T / Kosmo Spin / The
+  + The Artifactory [NSP][RUS/Multi10]
+Обновлено: 12
+  ~ NetherSX2 (бывш. AetherSX2) плюс ARMSX2 NX PS2: эмуляторы Sony PlayStation 2 PCS
+  ~ Thomas and Friends Wonders of Sodor [NSP][ENG]
+  ~ Namco Legendary Mountains [NSZ][RUS/Multi10]
+  ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
+  ~ Minecraft [NSP][RUS/Multi11]
   ~ 175 отомэ: Code Realize, Collar X Malice, Nightshade, Bustafellows 1-2, Taisho x
-  ~ Ultimate Sheep Raccoon [NSZ][RUS/Multi12]
-  ~ Ys vs. Trails in the Sky Alternative Saga [NSZ][ENG]
-  ~ Yomi 2 Fighting Card Game + DLC Renegades [NSZ][RUS/Multi6]
-  ~ Helix Descent n Ascent [NSZ][RUS/Multi10]
   ~ DraStic DS NX: эмулятор Nintendo NDS/DSi/Dual Screen + игра New Super Mario Bros
   ~ Phigros (порт) [NRO][ENG]
-  ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
   ~ Banjo-Kazooie (порт Lighthouse, Docklight) [NRO][ENG]
   ~ Sonic the Hedgehog 4 Episode II (эпизод 2, хоумбрю) [NRO][ENG]
   ~ Sonic Runners Adventure (хоумбрю) [NRO][RUS/Multi12]
