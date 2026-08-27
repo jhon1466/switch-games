@@ -1,16 +1,24 @@
-=== 2026-08-26 03:00:50 ===
-Всего в базе: 7087
-Добавлено: 4
-  + Darkest Dungeon: Ancestral edition + 5 DLC: The Fire's Edge, The Color of Madnes
-  + Everwarder (Ever Warder) [NSZ][ENG]
-  + Simogo Legacy Collection, 7 игр: Year Walk / Device 6 / SPL-T / Kosmo Spin / The
-  + The Artifactory [NSP][RUS/Multi10]
-Обновлено: 12
-  ~ NetherSX2 (бывш. AetherSX2) плюс ARMSX2 NX PS2: эмуляторы Sony PlayStation 2 PCS
-  ~ Thomas and Friends Wonders of Sodor [NSP][ENG]
-  ~ Namco Legendary Mountains [NSZ][RUS/Multi10]
+=== 2026-08-27 03:00:52 ===
+Всего в базе: 7090
+Добавлено: 3
+  + Metal Gear Solid: Master Collection Edition, Vol. 2 (MGS 4 / Peace Walker / Guns
+  + Planet Quiz Learn and Discover + 4 DLC [NSZ][ENG]
+  + Wax Heads [NSZ][ENG]
+Обновлено: 21
+  ~ Super Bomberman Collection (7 игр) [NSZ][ENG]
+  ~ Outbound + DLC [NSZ][RUS/Multi10]
+  ~ Dungeon Clawler [NSZ][RUS/Multi10]
+  ~ Realm of Ink [NSP][RUS/Multi10]
+  ~ Whisper of the House [NSZ][ENG]
+  ~ Discounty [NSZ][RUS (Mod.)/ENG]
+  ~ Lost to Time [NSZ][ENG]
+  ~ Memory of Memorie a Chill Story [NSZ][ENG]
+  ~ The Choice of Life Middle Ages 1 / 2 / Wild Islands [NSZ][RUS/ENG]
+  ~ My Hero Academia: One's Justice + 11 DLC / My Hero One's Justice 2 + 41 DLC [NSZ
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
-  ~ Minecraft [NSP][RUS/Multi11]
+  ~ Voidwrought [NSZ][RUS/Multi9]
+  ~ Magin the Rat Project Stories [NSZ][RUS/Multi8]
+  ~ NetherSX2 (бывш. AetherSX2) плюс ARMSX2 NX PS2: эмуляторы Sony PlayStation 2 PCS
   ~ 175 отомэ: Code Realize, Collar X Malice, Nightshade, Bustafellows 1-2, Taisho x
   ~ DraStic DS NX: эмулятор Nintendo NDS/DSi/Dual Screen + игра New Super Mario Bros
   ~ Phigros (порт) [NRO][ENG]
