@@ -1,25 +1,11 @@
-=== 2026-08-28 18:50:16 ===
-Всего в базе: 7098
-Добавлено: 8
-  + Grand Theft Auto V (порт GTA 5) [NRO][RUS/Multi10]
-  + Astonishia Story (어스토니시아 스토리) [NSZ][ENG]
-  + Ila a Frosty Glide [NSP][RUS/Multi11]
-  + Captain Tsubasa 2: World Fighters + 4 DLC [NSZ][ENG]
-  + Kejora [NSZ][ENG]
-  + Karma City Police [NSP][ENG]
-  + Tome of the Damned [NSZ][RUS/Multi15]
-  + Slay the Spire 2 (порт) [NRO][RUS/Multi14]
-Обновлено: 13
-  ~ Kynseed [NSZ][RUS (Mod.)/ENG]
-  ~ Brok the Investigator / The Brawl Bar / Natal Tail a New Christmas [NSP][RUS/Mul
-  ~ The Last Faith + DLC Awakened Ancients [NSP][RUS/Multi13]
-  ~ Muse Dash + 2 DLC (и версия с 3 кодами разблокировки оффлайн) [NSP][ENG]
-  ~ Vagrus the Riven Realms [NSZ][RUS/Mutli12]
-  ~ Bendy and the Ink Machine [NSZ][RUS/Multi9]
-  ~ Scott Pilgrim Ex + DLC Back in the Band [NSZ][RUS/Multi9]
-  ~ Steins Gate Re Boot (Reboot) [NSP][ENG]
-  ~ Dave the Diver + 6 DLC (In the Jungle) [NSZ][RUS/Multi11]
-  ~ The Garden Path [NSZ][ENG]
+=== 2026-08-29 03:00:47 ===
+Всего в базе: 7099
+Добавлено: 1
+  + Vita3K-nx: эмулятор PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO][RUS]
+Обновлено: 6
+  ~ Need a packet? (Пакет нужен?), Vasilis, Brutalism22, Frogvival, Bakeborough, Whe
+  ~ Mortal Kombat Legacy Kollection (11 игр MK) [NSZ][ENG]
+  ~ Naruto x Boruto Ultimate Ninja Storm Connections + 11 DLC [NSP][RUS/Multi6]
+  ~ Slay the Spire 2 (порт) [NRO][RUS/Multi14]
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
   ~ NetherSX2 (бывш. AetherSX2) плюс ARMSX2 NX PS2: эмуляторы Sony PlayStation 2 PCS
-  ~ 175 отомэ: Code Realize, Collar X Malice, Nightshade, Bustafellows 1-2, Taisho x
