@@ -1,11 +1,14 @@
-=== 2026-08-29 03:00:47 ===
-Всего в базе: 7099
+=== 2026-08-30 03:00:47 ===
+Всего в базе: 7100
 Добавлено: 1
-  + Vita3K-nx: эмулятор PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO][RUS]
-Обновлено: 6
-  ~ Need a packet? (Пакет нужен?), Vasilis, Brutalism22, Frogvival, Bakeborough, Whe
-  ~ Mortal Kombat Legacy Kollection (11 игр MK) [NSZ][ENG]
-  ~ Naruto x Boruto Ultimate Ninja Storm Connections + 11 DLC [NSP][RUS/Multi6]
+  + Game and Watch, Электроника ИМ — 84 игры (эмулятор Yokoi, Sharp SM510) [NRO][ENG
+Обновлено: 9
+  ~ Figure it Out the Tantrum Simulator [NSZ][ENG]
+  ~ EA Sports FC 26 [NSP][RUS/Multi11]
+  ~ Vampire Survivors (VS) First Survivaton + DLC Legacy of the Bloodmoon, Ante Cham
+  ~ Aggelos 1-2 [NSP][RUS/Multi10]
+  ~ Ghost Master Resurrection + 8 DLC [NSP][RUS/Multi9]
+  ~ Vita3K-nx: эмулятор PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO][RUS]
   ~ Slay the Spire 2 (порт) [NRO][RUS/Multi14]
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
   ~ NetherSX2 (бывш. AetherSX2) плюс ARMSX2 NX PS2: эмуляторы Sony PlayStation 2 PCS
