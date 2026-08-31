@@ -1,13 +1,12 @@
-=== 2026-08-30 03:00:47 ===
-Всего в базе: 7100
+=== 2026-08-31 03:00:49 ===
+Всего в базе: 7101
 Добавлено: 1
-  + Game and Watch, Электроника ИМ — 84 игры (эмулятор Yokoi, Sharp SM510) [NRO][ENG
-Обновлено: 9
-  ~ Figure it Out the Tantrum Simulator [NSZ][ENG]
-  ~ EA Sports FC 26 [NSP][RUS/Multi11]
-  ~ Vampire Survivors (VS) First Survivaton + DLC Legacy of the Bloodmoon, Ante Cham
-  ~ Aggelos 1-2 [NSP][RUS/Multi10]
-  ~ Ghost Master Resurrection + 8 DLC [NSP][RUS/Multi9]
+  + Absurdika Rebuild [NSP][RUS/Multi4]
+Обновлено: 8
+  ~ Whisper of the House [NSZ][RUS (Mod.)/ENG]
+  ~ Grand Theft Auto V (порт GTA 5) [NRO][RUS/Multi12]
+  ~ Lucky Tower Ultimate [NSZ][RUS/Multi9]
+  ~ Game and Watch, Электроника ИМ — 84 игры (эмулятор Yokoi, Sharp SM510) [NRO][ENG
   ~ Vita3K-nx: эмулятор PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO][RUS]
   ~ Slay the Spire 2 (порт) [NRO][RUS/Multi14]
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
