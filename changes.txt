@@ -1,13 +1,12 @@
-=== 2026-08-31 03:00:49 ===
-Всего в базе: 7101
-Добавлено: 1
-  + Absurdika Rebuild [NSP][RUS/Multi4]
-Обновлено: 8
-  ~ Whisper of the House [NSZ][RUS (Mod.)/ENG]
-  ~ Grand Theft Auto V (порт GTA 5) [NRO][RUS/Multi12]
-  ~ Lucky Tower Ultimate [NSZ][RUS/Multi9]
+=== 2026-09-01 03:00:48 ===
+Всего в базе: 7103
+Добавлено: 2
+  + Leafy Corner [NSP][RUS/Multi13]
+  + Sigma Star Saga DX [NSZ][ENG]
+Обновлено: 6
+  ~ Bob the Elementalist / A Frog's Job / Material Evidence [NSZ][ENG,RUS]
+  ~ Stitch + 2 DLC [NSZ][RUS/Multi11]
   ~ Game and Watch, Электроника ИМ — 84 игры (эмулятор Yokoi, Sharp SM510) [NRO][ENG
   ~ Vita3K-nx: эмулятор PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO][RUS]
   ~ Slay the Spire 2 (порт) [NRO][RUS/Multi14]
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
-  ~ NetherSX2 (бывш. AetherSX2) плюс ARMSX2 NX PS2: эмуляторы Sony PlayStation 2 PCS
