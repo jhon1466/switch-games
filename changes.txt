@@ -1,12 +1,14 @@
-=== 2026-09-01 03:00:48 ===
-Всего в базе: 7103
+=== 2026-09-02 03:00:52 ===
+Всего в базе: 7105
 Добавлено: 2
-  + Leafy Corner [NSP][RUS/Multi13]
-  + Sigma Star Saga DX [NSZ][ENG]
-Обновлено: 6
-  ~ Bob the Elementalist / A Frog's Job / Material Evidence [NSZ][ENG,RUS]
-  ~ Stitch + 2 DLC [NSZ][RUS/Multi11]
+  + Infinity Blade (порт) [NRO][ENG]
+  + MIG Switch Game Collection Vol 2: сборник №2 из 250 игр для флеш-картриджа MIG S
+Обновлено: 8
+  ~ Touhou 8 Imperishable Night / Youyoumu 7 Perfect Cherry Blossom / 6 Koumakyou th
+  ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
+  ~ Astrea Six Sided Oracles [NSZ][RUS/Multi8]
+  ~ Mostroscopy [NSZ][ENG]
+  ~ Teenage Mutant Ninja Turtles (TMNT) Splintered Fate + 5 DLC [NSZ][RUS/Multi14]
   ~ Game and Watch, Электроника ИМ — 84 игры (эмулятор Yokoi, Sharp SM510) [NRO][ENG
   ~ Vita3K-nx: эмулятор PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO][RUS]
   ~ Slay the Spire 2 (порт) [NRO][RUS/Multi14]
-  ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
