@@ -1,14 +1,21 @@
-=== 2026-09-02 03:00:52 ===
-Всего в базе: 7105
-Добавлено: 2
-  + Infinity Blade (порт) [NRO][ENG]
-  + MIG Switch Game Collection Vol 2: сборник №2 из 250 игр для флеш-картриджа MIG S
-Обновлено: 8
+=== 2026-09-03 03:00:50 ===
+Всего в базе: 7106
+Добавлено: 1
+  + Mega Man X Regenesis (хоумбрю) [NRO][ENG]
+Обновлено: 14
+  ~ Grand Theft Auto V (порт GTA 5) [NRO][RUS/Multi12]
+  ~ It Takes Two [NSP][RUS/Multi12]
+  ~ Ghost Master Resurrection + 8 DLC [NSP][RUS/Multi9]
+  ~ Castlevania Dominus Collection: Dawn of Sorrow / Portrait of Ruin / Order of Ecc
+  ~ Super Smash Bros Ultimate (SSBU) + 99 DLC [NSZ][RUS/Multi10]
+  ~ Mario Kart 8 Deluxe (MK8D) + DLC Booster Course Pass, волна 6 [NSZ][RUS/Multi11]
+  ~ The Wizard of Bug [NSZ][ENG]
+  ~ Nintendo Switch Online (официальные игры NSO + опциональный мод): NES, Nintendo 
+  ~ Infinity Blade (порт) [NRO][ENG]
   ~ Touhou 8 Imperishable Night / Youyoumu 7 Perfect Cherry Blossom / 6 Koumakyou th
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
-  ~ Astrea Six Sided Oracles [NSZ][RUS/Multi8]
-  ~ Mostroscopy [NSZ][ENG]
-  ~ Teenage Mutant Ninja Turtles (TMNT) Splintered Fate + 5 DLC [NSZ][RUS/Multi14]
   ~ Game and Watch, Электроника ИМ — 84 игры (эмулятор Yokoi, Sharp SM510) [NRO][ENG
   ~ Vita3K-nx: эмулятор PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO][RUS]
   ~ Slay the Spire 2 (порт) [NRO][RUS/Multi14]
+Перезалит magnet: 1
+  # Wulverblade [NSZ][ENG]
