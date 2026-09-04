@@ -1,21 +1,21 @@
-=== 2026-09-03 03:00:50 ===
-Всего в базе: 7106
-Добавлено: 1
-  + Mega Man X Regenesis (хоумбрю) [NRO][ENG]
-Обновлено: 14
-  ~ Grand Theft Auto V (порт GTA 5) [NRO][RUS/Multi12]
-  ~ It Takes Two [NSP][RUS/Multi12]
-  ~ Ghost Master Resurrection + 8 DLC [NSP][RUS/Multi9]
-  ~ Castlevania Dominus Collection: Dawn of Sorrow / Portrait of Ruin / Order of Ecc
-  ~ Super Smash Bros Ultimate (SSBU) + 99 DLC [NSZ][RUS/Multi10]
-  ~ Mario Kart 8 Deluxe (MK8D) + DLC Booster Course Pass, волна 6 [NSZ][RUS/Multi11]
-  ~ The Wizard of Bug [NSZ][ENG]
+=== 2026-09-04 03:00:49 ===
+Всего в базе: 7110
+Добавлено: 4
+  + Angeline Era [NSZ][RUS/Multi7]
+  + Soul Quest [NSZ][ENG]
+  + Dungeon Antiqua [NSZ][ENG]
+  + Veiled Edge [NSZ][RUS/Multi7]
+Обновлено: 13
+  ~ Moss the Forgotten Relic (Book I-II) [NSP][RUS (Mod.)/ENG]
   ~ Nintendo Switch Online (официальные игры NSO + опциональный мод): NES, Nintendo 
+  ~ Super Woden GP 1-2 (I-II), Rally Edge [NSZ][RUS/Multi18]
+  ~ Marsupilami 2 Salsa Palombia [NSP][RUS (Mod.)/ENG]
+  ~ Словесные POWGI+ игры, 31 шт.: Words in Word, Gaps, Roundout, Alphaset, Wordswee
+  ~ Lost Eidolons: Veil of the Witch [NSZ][RUS/Multi10]
+  ~ Slay the Princess the Pristine Cut [NSP][RUS/Multi13]
+  ~ Mega Man X Regenesis (хоумбрю) [NRO][ENG]
   ~ Infinity Blade (порт) [NRO][ENG]
   ~ Touhou 8 Imperishable Night / Youyoumu 7 Perfect Cherry Blossom / 6 Koumakyou th
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
   ~ Game and Watch, Электроника ИМ — 84 игры (эмулятор Yokoi, Sharp SM510) [NRO][ENG
   ~ Vita3K-nx: эмулятор PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO][RUS]
-  ~ Slay the Spire 2 (порт) [NRO][RUS/Multi14]
-Перезалит magnet: 1
-  # Wulverblade [NSZ][ENG]
