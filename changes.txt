@@ -1,21 +1,26 @@
-=== 2026-09-04 03:00:49 ===
-Всего в базе: 7110
-Добавлено: 4
-  + Angeline Era [NSZ][RUS/Multi7]
-  + Soul Quest [NSZ][ENG]
-  + Dungeon Antiqua [NSZ][ENG]
-  + Veiled Edge [NSZ][RUS/Multi7]
-Обновлено: 13
-  ~ Moss the Forgotten Relic (Book I-II) [NSP][RUS (Mod.)/ENG]
-  ~ Nintendo Switch Online (официальные игры NSO + опциональный мод): NES, Nintendo 
-  ~ Super Woden GP 1-2 (I-II), Rally Edge [NSZ][RUS/Multi18]
-  ~ Marsupilami 2 Salsa Palombia [NSP][RUS (Mod.)/ENG]
+=== 2026-09-05 03:00:50 ===
+Всего в базе: 7117
+Добавлено: 7
+  + Another Eden Begins (демонстрационная версия) [NSZ][DEMO][ENG]
+  + Isle of Reveries [NSP][ENG]
+  + Tamashika [NSZ][ENG]
+  + Monsters Until Midnight [NSZ][RUS-ENG/Multi0]
+  + Fred and Jeff the Atomic Sulfate (Mortadelo y Filemón: El sulfato atómico) [NSZ]
+  + Touhou Lost Branch of Legend [NSZ][RUS/Multi7]
+  + Final Fantasy Resonance (демонстрационная версия) [NSP][DEMO][ENG]
+Обновлено: 15
+  ~ 11 RenPy-портов: Mycopsychosys Remastered / Bad End Theater / Sakura Isekai Adve
+  ~ Darkest Dungeon: Ancestral edition + 5 DLC: The Fire's Edge, The Color of Madnes
+  ~ Solateria [NSZ][RUS (Mod.)/ENG]
+  ~ Vita3K-nx: эмулятор Sony PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO]
+  ~ Folk Hero [NSZ][RUS/Multi9]
+  ~ Ludo XXL (лудо, парчис) / DOG Takes the Hindmost / 4 in a Row / My Rummy / Yatzi
+  ~ Backgammon Board Game Puzzle / Backgammon Pro / 3-in-1 (короткие нарды) [NSZ][RU
+  ~ Undertale Yellow (неофициальный порт) [NSZ][ENG]
+  ~ Grand Theft Auto V (порт GTA 5) [NRO][RUS/Multi12]
   ~ Словесные POWGI+ игры, 31 шт.: Words in Word, Gaps, Roundout, Alphaset, Wordswee
-  ~ Lost Eidolons: Veil of the Witch [NSZ][RUS/Multi10]
-  ~ Slay the Princess the Pristine Cut [NSP][RUS/Multi13]
   ~ Mega Man X Regenesis (хоумбрю) [NRO][ENG]
   ~ Infinity Blade (порт) [NRO][ENG]
   ~ Touhou 8 Imperishable Night / Youyoumu 7 Perfect Cherry Blossom / 6 Koumakyou th
   ~ The Legend of Zelda: The Minish Cap (нативный порт) [NSP][ENG]
   ~ Game and Watch, Электроника ИМ — 84 игры (эмулятор Yokoi, Sharp SM510) [NRO][ENG
-  ~ Vita3K-nx: эмулятор PlayStation Vita (PSV) + игра Gravity Rush / Daze [NRO][RUS]
